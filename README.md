@@ -54,7 +54,7 @@ A modern, full-stack real-time chat application built with NestJS backend with P
 
    ```bash
    git clone <repository-url>
-   cd chat-app-nestjs-postgresql-reactjs
+   cd Chat-App
    ```
 
 2. **Setup PostgreSQL Database**
